@@ -14,4 +14,8 @@
 
 [Telegram](https://t.me/staskozin)     [stas@staskozin.ru](mailto:stas@staskozin.ru)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staskozin&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=staskozin&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=staskozin&layout=compact">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staskozin&layout=compact">
+</picture>
